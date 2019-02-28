@@ -6,6 +6,6 @@
 
 Data: Yelp Review(https://www.yelp.com/dataset)
 
-Use 10,000 sample from the data
+Use 10,000 samples from the data
 
 Word-Embedding dimension is 50

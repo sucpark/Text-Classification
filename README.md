@@ -2,7 +2,7 @@
 
 1. Hierarchical Attention Network for document classification(HAN)
 2. Hierarchical Convolutional Attention Network for text classification(HCAN)
-3. Hierarchical Multihead Convolutional Attention Network for text classification(HMCAN)
+3. Hierarchical Multichannel Convolutional Attention Network for text classification(HMCAN)
 
 Data: Yelp Review(https://www.yelp.com/dataset)
 
